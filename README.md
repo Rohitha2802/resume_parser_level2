@@ -18,7 +18,7 @@ FEATURES:
 2. Strong regex-based email & phone number extraction
 3. Detects sections automatically (summary, skills, experience, education, certifications)
 4. Extracts skills using noun-chunks + dictionaries
-5. Extracts experience with year ranges (YYYY–YYYY / YYYY–Present)
+5. Extracts experience with year ranges 
 6. Identifies education with streams & universities
 7. Extracts multiple certifications using keyword + regex logic
 
