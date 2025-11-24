@@ -1,0 +1,20 @@
+name
+Rohitha Earle 
+about me 
+I am a very dedicated software developer.
+I love building applications using Python and Java.
+my phone number is 9876543210
+email id is eswari@gmail.com
+
+Skills
+Python, Java, SQL, AWS, HTML, CSS
+
+Education
+Completed B.Tech AI&DS from VIIT in 2026
+
+Experience
+Worked at Infosys as a Python Developer from 2026 to 2027
+
+Certifications
+AWS Practitioner Certification
+python certification 
